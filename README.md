@@ -30,13 +30,11 @@ Este projeto demonstra os seguintes conceitos:
 
 📂 Estrutura do projeto
 Celular-POO.net
-│
-├── Models
-│   ├── Smartphone.cs
-│   ├── Nokia.cs
-│   └── Iphone.cs
-│
-└── Program.cs
+ Models
+    Smartphone.cs
+    Nokia.cs
+    Iphone.cs
+  Program.cs
 📌 Descrição das classes
 
 Smartphone (classe abstrata)
